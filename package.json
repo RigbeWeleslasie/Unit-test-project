@@ -2,7 +2,20 @@
   "name": "unit-test-project",
   "version": "1.0.0",
   "description": "",
+
   "main": "stringsUtils.js",
+
+
+  "main": "maths.js",
+
+
+  "main": "number.js",
+
+  "main": "emailValidator.js",
+
+  "main": "fizzbuzz.js",
+
+
   "scripts": {
     "test": "jest"
   },
