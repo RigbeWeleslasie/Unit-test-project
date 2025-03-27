@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "",
 
+  "main": "number.js",
+
   "main": "emailValidator.js",
 
   "main": "fizzbuzz.js",
+
 
   "scripts": {
     "test": "jest"
