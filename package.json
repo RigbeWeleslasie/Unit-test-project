@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
 
+  "main": "maths.js",
+
+
   "main": "number.js",
 
   "main": "emailValidator.js",
